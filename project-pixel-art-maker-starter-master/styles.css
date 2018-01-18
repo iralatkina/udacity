@@ -1,0 +1,44 @@
+body {
+    font-family: Helvetica;
+    color: #567651;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arbutus;
+    font-size: 70px;
+    color: #208b11;
+    margin: 0.2em;
+    letter-spacing: 7px;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
