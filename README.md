@@ -1,1 +1,1 @@
-training project for udacity.com.
+training projects for udacity.com.
